@@ -39,8 +39,8 @@ Welcome to my GitHub! I'm an aspiring **Big Data Engineer** currently diving dee
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) <!-- Replace with your actual LinkedIn -->
-- 📧 Reach me: avantika@example.com <!-- Replace with your actual email -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/avantika-swami-b49510214/) <!-- Replace with your actual LinkedIn -->
+- 📧 Reach me: avantikadswami@gmail.com <!-- Replace with your actual email -->
 
 ---
 
